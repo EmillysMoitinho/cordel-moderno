@@ -1,6 +1,7 @@
 # Cordel Moderno
 
 Este projeto foi desenvolvido durante o curso de HTML5 e CSS3 do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara. O objetivo do projeto é transformar a poesia "Cordel Moderno" de Milton Duarte em um site, incorporando efeitos de parallax nas imagens de fundo.
+link do site: https://emillysmoitinho.github.io/cordel-moderno/
 
 ## Descrição
 
